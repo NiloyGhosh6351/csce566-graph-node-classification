@@ -1,5 +1,3 @@
-"""Reproducible DeepWalk and GCN benchmarks for the local LINQS citation data."""
-
 from pathlib import Path
 
 import networkx as nx
